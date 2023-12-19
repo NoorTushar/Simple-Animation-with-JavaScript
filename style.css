@@ -14,3 +14,8 @@
   background-color: burlywood;
   position: absolute;
 }
+
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+}
