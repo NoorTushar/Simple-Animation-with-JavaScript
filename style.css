@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  height: 400px;
+  width: 400px;
+  background-color: black;
+}
+.animate-box {
+  height: 50px;
+  width: 50px;
+  background-color: burlywood;
+  position: absolute;
+}
